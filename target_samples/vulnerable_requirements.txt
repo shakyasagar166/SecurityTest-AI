@@ -1,0 +1,8 @@
+# Intentionally vulnerable dependency versions for SecurityTest-AI testing
+Flask==1.0.2
+Werkzeug==0.15.5
+requests==2.20.0
+PyYAML==5.1
+urllib3==1.24.2
+jinja2==2.10.1
+cryptography==2.8
